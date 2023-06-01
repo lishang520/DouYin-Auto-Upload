@@ -19,8 +19,10 @@
 
 ### 3、软件运行截图
 
-- ![image-20230601073214191](Readme.assets/image-20230601073214191.png)
-- ![image-20230601073238026](Readme.assets/image-20230601073238026.png)
+![](https://img2023.cnblogs.com/blog/2349369/202306/2349369-20230601084149521-274921544.png)
+
+![](https://img2023.cnblogs.com/blog/2349369/202306/2349369-20230601084202619-2139124361.png)
+
 
 
 
@@ -75,7 +77,8 @@
 当前问题：
 
 - 在windows server上运行有报错提示，但是不影响，还是可以正常上传，忽视即可
-  - ![image-20230601073033270](Readme.assets/image-20230601073033270.png)
+  ![](https://img2023.cnblogs.com/blog/2349369/202306/2349369-20230601084220521-1297802131.png)
+
 
 ## 三、相关链接
 
@@ -85,4 +88,4 @@
 
 2、我的blog：[painter520 - 博客园 (cnblogs.com)](https://www.cnblogs.com/painter-sec)
 
-3、我的github：https://github.com/lishang520?tab=repositories
+3、我的github：[Your Repositories (github.com)](https://github.com/lishang520?tab=repositories)
